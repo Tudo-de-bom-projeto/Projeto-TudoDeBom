@@ -1,5 +1,6 @@
 package br.com.tudodebom.model;
 
+
 import java.time.LocalDate;
 
 /*
@@ -7,6 +8,7 @@ import java.time.LocalDate;
  */
 public class Clientes {
 
+	/*Atributos */
 	private Integer idCliente;
 	private String nomeCliente;
 	private LocalDate dataNascimento;

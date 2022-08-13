@@ -1,9 +1,10 @@
-package br.com.tudodebom.conexao;
+package br.com.tudodebom.app;
+import br.com.tudodebom.conexao.BancoDeDados;
 
 /*
  * 
  */
-public class Clientes {
+public class Gerenciamento {
 
 	public static void main(String[] args) {
 		
